@@ -5,6 +5,9 @@
     background-color: $secondary-color;
     font-size: 12px;
     color: $primary-color;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
     padding: 16px 32px;
     border-radius: 32px;
 
