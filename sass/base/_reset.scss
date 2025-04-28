@@ -13,6 +13,7 @@ body {
     font-size: $font-size-base;
     line-height: $line-height-base;
     color: $text-color;
+    background-color: $primary-color;
     height: 100%;
 }
 
@@ -30,4 +31,8 @@ button {
     border: none;
     background: none;
     font-family: $font-family-base;
+}
+
+.hidden {
+    display: none;
 }
